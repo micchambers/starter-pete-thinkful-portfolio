@@ -88,3 +88,12 @@ hr {
   flex-direction: column;
   justify-content: center;
 }
+
+.portfolio-item {
+  text-align: center;
+  font-size: 14;
+}
+
+.portfolio-item p {
+  padding: 0 10px;
+}
